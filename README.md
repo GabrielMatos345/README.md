@@ -6,7 +6,8 @@ Olá! Sou o Gabriel, apaixonado por dados, tecnologia e soluções criativas. Ve
 
 Atualmente, estou em transição para a área de Análise de Dados, estudando diariamente e desenvolvendo projetos para consolidar meu conhecimento técnico. Meu objetivo é construir uma carreira onde possa unir visão estratégica e domínio técnico para resolver problemas reais por meio dos dados.
 
-📚 Em aprendizado:
+📚 **Em aprendizado:**
+
 Python para Análise de Dados
 
 SQL
@@ -19,10 +20,13 @@ Lógica de Programação
 
 Fundamentos de Engenharia de Dados
 
-⚙️ Tecnologias e Ferramentas
+
+⚙️ **Tecnologias e Ferramentas**
+
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png" /> <img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" /> <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" alt="VS Code" title="Visual Studio Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <br/> <br/>
                     
-🧠 Projetos em andamento
+🧠 **Projetos em andamento**
+
  Dashboard interativo de vendas no Power BI
 
  Análise exploratória de dados com Pandas & Matplotlib
@@ -33,5 +37,6 @@ Fundamentos de Engenharia de Dados
 
  Estudos sobre automação e pipelines com Python
 
-🚀 Objetivo no GitHub
+🚀 **Objetivo no GitHub**
+
 Compartilhar minha trajetória de transição de carreira, projetos práticos e aprendizados na área de dados e tecnologia. Sinta-se à vontade para acompanhar meus repositórios, trocar ideias ou colaborar!
