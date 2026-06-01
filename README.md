@@ -1,42 +1,54 @@
-# README.md
-👨🏻‍💻 Gabriel Matos
-Iniciando em Análise de Dados e Programação
+# 👨🏻‍💻 Gabriel Matos — Transição para Análise de Dados
 
-Olá! Sou o Gabriel, apaixonado por dados, tecnologia e soluções criativas. Venho da área de Marketing Digital, com forte atuação em tráfego pago, CRM, e estratégias para e-commerce. Essa bagagem me proporcionou uma base sólida em análise de métricas, comportamento do consumidor e decisões orientadas por dados.
+Olá! Sou o Gabriel, venho da área de **Marketing Digital** com atuação em tráfego pago, CRM e estratégias para e-commerce. Essa experiência me deu uma base sólida em análise de métricas, comportamento do consumidor e decisões orientadas por dados — e foi ela que me trouxe até aqui.
 
-Atualmente, estou em transição para a área de Análise de Dados, estudando diariamente e desenvolvendo projetos para consolidar meu conhecimento técnico. Meu objetivo é construir uma carreira onde possa unir visão estratégica e domínio técnico para resolver problemas reais por meio dos dados.
+Atualmente em transição para **Análise de Dados**, estudando de forma consistente e construindo projetos reais para consolidar meu conhecimento técnico.
 
-📚 **Em aprendizado:**
+---
 
-Python para Análise de Dados
+## 🛠️ Ferramentas e tecnologias
 
-SQL
+| Tenho domínio | Em aprendizado |
+|---------------|----------------|
+| Excel Avançado (Senac) | Power BI (EBAC — em andamento) |
+| Métricas de marketing digital | Python para dados |
+| CRM e e-commerce | SQL / MySQL |
+| HTML / GitHub Pages | Visualização de dados |
 
-Excel Avançado & Power BI
+---
 
-Visualização de Dados
+## 📂 Projetos publicados
 
-Lógica de Programação
+### 📊 [Email Benchmarking Dashboard](https://gabrielmatos345.github.io/email-benchmarking/)
+Painel interativo para catalogar e analisar layouts de e-mail marketing. Inclui filtros por tipo e setor, métricas de taxa de abertura e CTR, e painel de insights por marca. Desenvolvido em HTML/JS e hospedado via GitHub Pages.
 
-Fundamentos de Engenharia de Dados
+---
 
+## 🎯 Próximos passos
 
-⚙️ **Tecnologias e Ferramentas**
+Projetos que estou planejando desenvolver conforme avanço nos estudos:
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png" /> <img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" /> <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" alt="VS Code" title="Visual Studio Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <br/> <br/>
-                    
-🧠 **Projetos em andamento**
+- Dashboard de vendas no Power BI
+- Análise exploratória de dados com Python e Pandas
+- Banco de dados relacional com MySQL
+- Integração de dados de campanhas com ferramentas de BI
 
- Dashboard interativo de vendas no Power BI
+---
 
- Análise exploratória de dados com Pandas & Matplotlib
+## 📚 Formação complementar
 
- Integração de dados de campanhas com ferramentas de BI
+| Curso | Instituição | Status |
+|-------|-------------|--------|
+| Power BI | EBAC | Em andamento |
+| Excel Avançado | Senac | Concluído |
+| Excel Intermediário | Senac | Concluído |
 
- Criação de banco de dados relacional com MySQL
+---
 
- Estudos sobre automação e pipelines com Python
+## 🚀 Objetivo no GitHub
 
-🚀 **Objetivo no GitHub**
+Documentar minha trajetória de transição de carreira com projetos reais e aprendizados concretos. Acompanhe os repositórios, troque ideias ou colabore!
 
-Compartilhar minha trajetória de transição de carreira, projetos práticos e aprendizados na área de dados e tecnologia. Sinta-se à vontade para acompanhar meus repositórios, trocar ideias ou colaborar!
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Matos-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/gabriel-matos-23354322a)
