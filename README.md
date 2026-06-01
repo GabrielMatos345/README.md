@@ -28,7 +28,7 @@ Painel interativo para catalogar e analisar layouts de e-mail marketing. Inclui 
 
 Projetos que estou planejando desenvolver conforme avanço nos estudos:
 
-- Dashboard de vendas no Power BI
+- Dashboard de vendas com foco em CRM no Power BI
 - Análise exploratória de dados com Python e Pandas
 - Banco de dados relacional com MySQL
 - Integração de dados de campanhas com ferramentas de BI
